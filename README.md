@@ -1,0 +1,3 @@
+# HotFixDemo
+  
+区别于传统的热修复插入dex数组方案，此demo为利用对安卓底层classloader进行自定义来完成热加载dex资源的目的
